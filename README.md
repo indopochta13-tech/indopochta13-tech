@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="photo.jpg" width="200" alt="Volkov Valerii — Software Engineer" style="border-radius:16px">
+
 # Volkov Valerii · Software Engineer
 
 **Independent IT contractor · Russia · Self-employed (НПД)**
